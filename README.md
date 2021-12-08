@@ -18,3 +18,9 @@ The instructions are found in main.c. Look for this line to get started:
 ```C
 //  STEP 1: Implement a method for initializing PWM channel 1, for a total of 2 individual PWM channels
 ```
+
+</br>
+#### Useful registers documentation:
+- [PPI Registers](https://infocenter.nordicsemi.com/topic/ps_nrf52840/ppi.html?cp=4_0_0_5_15_1#topic)
+- [GPIOTE Registers](https://infocenter.nordicsemi.com/topic/ps_nrf52840/gpiote.html?cp=4_0_0_5_9_3#topic)
+- [TIMER Registers](https://infocenter.nordicsemi.com/topic/ps_nrf52840/timer.html?cp=4_0_0_5_29_4#topic)
