@@ -22,7 +22,7 @@ The instructions are found in main.c. Look for this line to get started:
 
 </br>
 
-#### Useful registers documentation: 
+### Useful Documentation: 
 
 Here are some useful links for this hands-on:
 - [PPI Registers](https://infocenter.nordicsemi.com/topic/ps_nrf52840/ppi.html?cp=4_0_0_5_15_1#topic)
