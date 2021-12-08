@@ -9,7 +9,9 @@ In this hands-on we want to explore the PPI of the nRF52. This sample is pretty 
 #define LED_4   16  // From the description on the back of the DK
 ```
 
-The project should compile without changes. By default it should use the PWM signal generated to "breathe" with LED1. Your job is to add the other LEDs to the mix.
+Tested with nRF Connect v1.7.1.</br>
+The project should compile without changes. Just copy it into the folder where you keep your personal nRF Connect for SDK projects, and use the option "Add an existing application" in the welcome tab, and navigate to the ppi_pwm_hands_on folder. By default it should use the PWM signal generated to "breathe" with LED1. Your job is to add the other LEDs to the mix.
+</br>
 The instructions are found in main.c. Look for this line to get started:
 
 ```C
