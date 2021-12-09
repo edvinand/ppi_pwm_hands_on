@@ -20,7 +20,7 @@
 // ------------------ PWM training exercise ----------------------
 //
 // The purpose of this training exercise is to demonstrate the use of the TIMER, PPI and GPIOTE in the nRF52 series,
-// and 
+// and how to combine them to generate a PWM signal.
 
 #include <zephyr.h>
 #include <sys/printk.h>
